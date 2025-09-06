@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ebere, and I am an EHU E42 trained Data Scientist & Amdari trained Data Engineer and Analyst. interested in Python, Data Modelling, and Version control Git!
+My name is Ebere, and I am an EHU E42-trained Data Scientist & Amdari Data Engineer interested in Python, Data Modelling, and Version control!
 
 - 🔭 I am currently developing a Machine Learning model to predict outcomes for both the men’s and women’s tournaments, covering all possible scenarios, regardless of likelihood.
 - I recently managed code versioning and collaborative development using Git and GitHub to maintain data pipeline scripts on a data engineering project through proper branching strategies and code reviews.
