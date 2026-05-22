@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-My name is Ebere, an EHU E42-trained Data Scientist and Amdari-trained Data Engineer passionate about Python, Data Modelling, Machine Learning, and Version Control.
+ I am currently building scalable data-driven solutions across machine learning and data engineering, including predictive analytics systems, workflow automation, and cloud-native healthcare data platforms.
 
-- 🔭 I am currently developing a Machine Learning model to predict outcomes for both the men’s and women’s tournaments, covering all possible scenarios, regardless of likelihood.
-  
-- I recently managed code versioning and collaborative development using Git and GitHub to maintain data pipeline scripts on a data engineering project through proper branching strategies and code reviews.
-  check it out [Here](https://bibiglorious.github.io/IamBibiGlorious.github.io/)
-  
-- 🌱 I recently built an intelligent system that automatically analyzes restaurant reviews using machine learning to provide real-time sentiment insights. check it out [Here](http://127.0.0.1:5500/index.html#)
-  
-- 👯 I am looking to collaborate on data-driven projects, especially in predictive modeling, NLP, and AI-powered analytics!
+ I recently developed an intelligent restaurant review analysis system using NLP and machine learning to generate real-time sentiment insights.
+
+ I also worked on healthcare-focused data engineering solutions involving ETL pipelines, backend systems, infrastructure automation, and scalable data workflows.
+
+ I am looking to collaborate on data engineering, analytics, NLP, and AI-driven projects that transform raw data into actionable insights.
   - Send Ideas to bibiglorious34@gmail.com
 
 <!--
